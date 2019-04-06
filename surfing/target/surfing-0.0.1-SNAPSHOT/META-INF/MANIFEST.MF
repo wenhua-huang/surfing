@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: surfing
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wenhua
+Implementation-Vendor-Id: com.petrel
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_40
+Main-Class: ${start-class}
+
